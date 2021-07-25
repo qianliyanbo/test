@@ -8,5 +8,6 @@ def index2(request):
     print(22222)
     print(3333)
     print(11111)
+    print(3333333)
     return HttpResponse('word')
 
